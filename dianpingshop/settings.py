@@ -101,8 +101,8 @@ DOWNLOAD_DELAY = 1 # 0.5  250 ms of delay
 #Mysql数据库的配置信息
 MYSQL_HOST = '127.0.0.1'
 MYSQL_DBNAME = 'testdb'         #数据库名字，请修改
-MYSQL_USER = 'root'             #数据库账号，请修改
-MYSQL_PASSWD = '1234567'         #数据库密码，请修改
+MYSQL_USER = 'nxet'             #数据库账号，请修改
+MYSQL_PASSWD = 'java'         #数据库密码，请修改
 
 MYSQL_PORT = 3306               #数据库端口，在dbhelper中使用
 
