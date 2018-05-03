@@ -1,5 +1,4 @@
 # coding=utf-8
-# -*- coding : utf-8-*-
 
 from scrapy.spiders import CrawlSpider
 from scrapy.selector import Selector

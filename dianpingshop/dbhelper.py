@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import MySQLdb
 from scrapy.utils.project import get_project_settings  # 导入seetings配置
 
